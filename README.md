@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rohan Keshkar</h1>
-<h3 align="center">Backend Engineer + Systems Builder + AI Enthusiast</h3>
+<h1 align="center">Rohan Keshkar here, mates!</h1>
+<h3 align="center">Calls myself Backend Engineer, Systems Builder and AI Enthusiast</h3>
 
 ---
 
@@ -12,7 +12,6 @@
 
 🔭 Currently building:
 - AI-powered code visualization platform
-- Real-time anomaly detection using SNN + Optical Flow
 - Scalable backend systems using Go, Node.js & distributed architecture
 
 🌱 Currently learning:
