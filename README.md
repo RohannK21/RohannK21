@@ -42,6 +42,7 @@
 </div>
 
 ## Backend
+
 <div align="center">
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
@@ -50,6 +51,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask)
 
 </div>
+
 ## Frontend
 <div align="center">
   
@@ -59,6 +61,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite)
 
 </div>
+
 ## Databases
 <div align="center">
 
@@ -68,6 +71,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis)
 
 </div>
+
 ## DevOps & Cloud
 <div align="center">
 
@@ -77,6 +81,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache)
 
 </div>
+
 ## AI / ML
 
 <div align="center">
@@ -90,13 +95,15 @@
 </div>
 
 ## Tools
+
+<div align="center">
+  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 </div>
----
 
 # 🌐 Connect With Me
 
@@ -131,5 +138,13 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=RohannK21&style=flat-square&color=00ffcc"/>
+
+</div>
+
+# 🐍 Contribution Heatmap
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RohannK21/RohannK21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
