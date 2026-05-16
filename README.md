@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGQLyimy5uPxw/profile-displaybackgroundimage-shrink_350_1400/B4DZYHcLx5HIAY-/0/1743881551413?e=1780531200&v=beta&t=lQU32hcCaZZmF92jB9MjT1uZiUtnI21k2F8yTTNO6xU" width="100%" />
+
+</div>
 <h1 align="center">Rohan Keshkar here, mates!</h1>
 <h3 align="center">calls myself Backend Engineer, Systems and AI Enthusiast</h3>
 <div align="center" > A final year student in BE Electronics and Computer Science from RCOEM, Nagpur</div>
@@ -32,7 +37,7 @@
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,keras" />
 </p>
 
 <p>
@@ -76,6 +81,13 @@
 
 </div>
 -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RohanKeshkar&style=flat-square&color=7F52FF" />
+</p>
+<p align="center"> 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 
 # 🐍 Contribution Heatmap
 
