@@ -1,30 +1,17 @@
 <h1 align="center">Rohan Keshkar here, mates!</h1>
-<h3 align="center">Calls myself Backend Engineer, Systems Builder and AI Enthusiast</h3>
+<h3 align="center">calls myself Backend Engineer, Systems and AI Enthusiast</h3>
+<div align="center" > A final year student in BE Electronics and Computer Science from RCOEM, Nagpur</div>
 
 ---
-
-# 🚀 About Me
-
-🎓 Final-year B.Tech student in Electronics & Computer Science  
-🏫 RCOEM, Nagpur  
-
-💡 Passionate about backend engineering, system design, AI systems, and developer tools.
-
-🔭 Currently building:
+🔭 Building:
 - AI-powered code visualization platform
 - Scalable backend systems using Go, Node.js & distributed architecture
 
-🌱 Currently learning:
+🌱 Learning:
 - System Design
 - Computer Networks
 - Cloud Infrastructure
 - Performance Engineering
-
-🎯 2026 Goals:
-- Build production-grade fun yet problem solving open-source projects
-- Contribute to impactful developer tools
-
----
 
 # 🛠 Tech Stack
 
